@@ -4,9 +4,15 @@ Desenvolvedora Back-End
 
 ### Linguagens
 
-- Java
+- Java (8 e 11)
 - Python
 - Shell Script
+- Html & CSS
+
+### Cloud Computing
+
+- AWS
+- OpenShift
 
 ### Linkedin
 
